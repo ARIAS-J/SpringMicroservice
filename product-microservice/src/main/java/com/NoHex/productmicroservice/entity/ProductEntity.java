@@ -16,10 +16,10 @@ public class ProductEntity {
     private Long id;
 
     @Column
-    private String ProductName;
+    private String productName;
 
     @Column
-    private String ProductDescription;
+    private String productDescription;
 
     @Column
     private Long unitPrice;
